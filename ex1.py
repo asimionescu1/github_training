@@ -40,5 +40,17 @@ print("Avg:")
 print(avg_fib(0))
 
 print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
+print("Buna")
     
     
