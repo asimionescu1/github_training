@@ -53,4 +53,7 @@ print("Buna")
 print("Buna")
 print("Buna")
     
+print("Yaya")
+print("yaya")
     
+print("yaya")
