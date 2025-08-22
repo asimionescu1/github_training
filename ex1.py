@@ -26,7 +26,7 @@ def sum_fib(n):
         print(fibonacci(i))
         sum = sum + fibonacci(i)
     return sum
-print("Sum:")
+print("Not:")
 print(sum_fib(0))
 
 def avg_fib(n):
