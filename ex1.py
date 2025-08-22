@@ -7,6 +7,7 @@ def fibonacci(n):
         return "Nasol"
     elif n == 0:
         return 0
+        print("draguta treaba")
     elif n == 1:
         return b
     else:
@@ -37,6 +38,8 @@ def avg_fib(n):
 
 print("Avg:")
 print(avg_fib(0))
+
+print("Buna")
     
 print("Yaya")
 print("yaya")
