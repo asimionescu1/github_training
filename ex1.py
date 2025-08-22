@@ -47,3 +47,7 @@ print("yaya")
 print("yaya")
 print("Buna")print("Buna")print("Buna")print("Buna")print("Buna")print("Buna")
 
+
+print("Buna")
+print("Pa")
+print("yaya pa buna")
