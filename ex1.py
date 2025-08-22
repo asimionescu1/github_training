@@ -38,5 +38,7 @@ def avg_fib(n):
 
 print("Avg:")
 print(avg_fib(0))
+
+print("Buna")
     
     
