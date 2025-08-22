@@ -45,5 +45,9 @@ print("Yaya")
 print("yaya")
     
 print("yaya")
+print("fdkjsfbdfkdnkjvnfdkjvndkjvnfdjnvkjfdnvkjfdnjk")
+print("fdkjsfbdfkdnkjvnfdkjvndkjvnfdjnvkjfdnvkjfdnjk")
+print("fdkjsfbdfkdnkjvnfdkjvndkjvnfdjnvkjfdnvkjfdnjk")
+print("fdkjsfbdfkdnkjvnfdkjvndkjvnfdjnvkjfdnvkjfdnjk")
 print("Buna")print("Buna")print("Buna")print("Buna")print("Buna")print("Buna")
 
