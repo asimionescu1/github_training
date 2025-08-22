@@ -51,3 +51,7 @@ print("fdkjsfbdfkdnkjvnfdkjvndkjvnfdjnvkjfdnvkjfdnjk")
 print("fdkjsfbdfkdnkjvnfdkjvndkjvnfdjnvkjfdnvkjfdnjk")
 print("Buna")print("Buna")print("Buna")print("Buna")print("Buna")print("Buna")
 
+
+print("Buna")
+print("Pa")
+print("yaya pa buna")
