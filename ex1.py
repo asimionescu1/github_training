@@ -4,7 +4,7 @@ def fibonacci(n):
     a = 0
     b = 1
     if n < 0:
-        return "Nasol"
+        return "Stefan"
     elif n == 0:
         return 0
     elif n == 1:
